@@ -1,6 +1,6 @@
-# 👥 AtWind Research Group Members
+# 👥 People
 
-Welcome to **AtWind — the Atmospheric and Wind Research Group** at [Durham University](https://www.durham.ac.uk/).  
+Welcome to **The Atmospheric and Wind Research Group** at Durham University.  
 We conduct research on **wind energy, atmospheric flows, and environmental fluid mechanics**, combining theory, experiments, and numerical modeling to better understand complex flow phenomena.
 
 ---
