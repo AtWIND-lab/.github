@@ -19,7 +19,7 @@ Associate Professor, Department of Engineering, Durham University
 ## 🧑‍💻 Current Members
 
 ### **Jordan Fuentes Holden** — PhD Student  
-![Jordan Fuentes Holden](./Images/Jordan.jpg)
+<img src="./Images/Jordan.jpg" alt="Jordan Fuentes Holden" width="200">
 
 > Sara’s research focuses on **analytical and numerical modeling of wind farm wakes**. She develops reduced-order models to predict wake recovery, power losses, and turbulence characteristics in large wind farms.  
 >  
