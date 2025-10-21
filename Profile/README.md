@@ -27,7 +27,7 @@ Each repository may include codes, datasets, or supplementary material to promot
 
 ## 👥 People
 
-Meet the members of our group [here →](https://github.com/your-org/people)
+Meet the members of our group [here →](https://github.com/AtWIND-lab/.github/blob/main/Profile/people.md)
 
 ---
 
