@@ -1,31 +1,25 @@
-# 🌬️ Bastankhah Research Group
+# 🌬️ AtWIND: Atmospheric Flow and Wind Energy Dynamics Group at Durham University
 
-Welcome to the **Bastankhah Research Group** at [Shiraz University](https://www.shirazu.ac.ir/).  
-We study **wind energy, fluid mechanics, and environmental flows**, combining theory, experiments, and computational modeling to better understand and optimize complex flow systems.
-
-Our GitHub organization hosts open-source codes, datasets, and resources related to our research publications.
-
----
+Welcome to our GitHub page. Here, we hosts open-source codes, datasets, and resources related to our research publications.
 
 ## 🔬 Research Areas
 
 - 🌪️ Wind farm aerodynamics and wake modeling  
 - 💨 Atmospheric boundary layer flows  
 - 🌀 Turbulence modeling and experimental fluid mechanics  
-- 🧮 Computational fluid dynamics (CFD) and analytical flow models  
+- 🧮 Analytical flow models and computational fluid dynamics (CFD)   
 
 ---
 
 ## 📘 Publications & Associated Repositories
 
 Below you’ll find repositories linked to our key publications.  
-Each repository includes codes, datasets, or supplementary material to promote open and reproducible research.
+Each repository may include codes, datasets, or supplementary material to promote open and reproducible research.
 
-| Year | Title | Repository |
-|------|--------|------------|
-| 2024 | **Analytical modeling of wind farm wake interactions** | [repo-link](https://github.com/your-org/repo-name) |
-| 2023 | **Field measurements of complex terrain flow** | [repo-link](https://github.com/your-org/repo-name) |
-| 2022 | **On the scaling laws in turbulent boundary layers** | [repo-link](https://github.com/your-org/repo-name) |
+| Year | Title | Repository | Publication |
+|------|--------|------------|------------|
+| 2025 | **Generalised Actuator Disk Theory** | [repo-link](https://github.com/your-org/repo-name) | [publication-link](https://arxiv.org/abs/2510.08213)
+
 
 > 🧩 More repositories will be added as our work evolves.  
 
@@ -39,9 +33,8 @@ Meet the members of our group [here →](https://github.com/your-org/people)
 
 ## 🧭 Contact
 
-- 📧 [majid.bastankhah@shirazu.ac.ir](mailto:majid.bastankhah@shirazu.ac.ir)  
-- 🌐 [majidbastankhah.com](https://www.majidbastankhah.com)  
-- 📍 Shiraz University, Iran  
+- 📧 [majid.bastankhah@durham.ac.uk](mailto:majid.bastankhah@durham.ac.uk)  
+- 📍 Department of Engineering, Durham University, Durham, United kingdom  
 
 ---
 
