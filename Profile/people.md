@@ -8,6 +8,7 @@ We conduct research on **wind energy, atmospheric flows, and environmental fluid
 ## 🧑‍🏫 Principal Investigator
 
 ### **Dr. Majid Bastankhah**
+<img src="./Images/Majid.jpg" alt="Majid Bastankhah" width="200">
 Associate Professor, Department of Engineering, Durham University  
 🌐 [Google Scholar](https://scholar.google.com/...)  
 📧 [majid.bastankhah@durham.ac.uk](mailto:majid.bastankhah@durham.ac.uk)
