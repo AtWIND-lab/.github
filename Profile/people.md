@@ -1,10 +1,5 @@
 # 👥 People
 
-Welcome to **The Atmospheric and Wind Research Group** at Durham University.  
-We conduct research on **wind energy, atmospheric flows, and environmental fluid mechanics**, combining theory, experiments, and numerical modeling to better understand complex flow phenomena.
-
----
-
 ## Principal Investigator
 
 ### **Dr. Majid Bastankhah**
