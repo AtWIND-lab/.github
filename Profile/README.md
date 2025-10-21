@@ -4,10 +4,10 @@ Welcome to our GitHub page. Here, we hosts open-source codes, datasets, and reso
 
 ## 🔬 Research Areas
 
-- 🌪️ Wind farm aerodynamics and wake modeling  
-- 💨 Atmospheric boundary layer flows  
-- 🌀 Turbulence modeling and experimental fluid mechanics  
-- 🧮 Analytical flow models and computational fluid dynamics (CFD)   
+- Wind farm aerodynamics and wake modeling  
+- Atmospheric boundary layer flows  
+- Turbulence modeling and experimental fluid mechanics  
+- Analytical flow models and computational fluid dynamics (CFD)   
 
 ---
 
@@ -18,7 +18,7 @@ Each repository may include codes, datasets, or supplementary material to promot
 
 | Year | Title | Repository | Publication |
 |------|--------|------------|------------|
-| 2025 | **Generalised Actuator Disk Theory** | [repo-link](https://github.com/your-org/repo-name) | [publication-link](https://arxiv.org/abs/2510.08213)
+| 2025 | **Generalised Actuator Disk Theory** | [repo-link](/Generalised-Actuator-Disk-theory) | [publication-link](https://arxiv.org/abs/2510.08213)
 
 
 > 🧩 More repositories will be added as our work evolves.  
