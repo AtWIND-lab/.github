@@ -18,7 +18,7 @@ Each repository may include codes, datasets, or supplementary material to promot
 
 | Year | Title | Repository | Publication |
 |------|--------|------------|------------|
-| 2025 | **Generalised Actuator Disk Theory** | [repo-link](/Generalised-Actuator-Disk-theory) | [publication-link](https://arxiv.org/abs/2510.08213)
+| 2025 | **Generalised Actuator Disk Theory** | [repo-link](./Generalised-Actuator-Disk-theory) | [publication-link](https://arxiv.org/abs/2510.08213)
 
 
 > 🧩 More repositories will be added as our work evolves.  
