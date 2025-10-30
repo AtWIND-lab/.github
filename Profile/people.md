@@ -21,8 +21,10 @@ Associate Professor, Department of Engineering, Durham University
 ### **Jordan Fuentes Holden** — PhD Student  
 <img src="./Images/Jordan.jpg" alt="Jordan Fuentes Holden" width="200">
 
-> Jordan’s research explores experimental wind turbine aerodynamics. He’s developing a smart wind turbine with trailing-edge flaps that can actively control the airflow around the blades and manipulate its wake to improve efficiency and overall performance.
+> Short bio: 
 
+
+> Research project: I develop a smart wind turbine with trailing-edge flaps that can actively control the airflow around the blades and manipulate its wake to improve efficiency and overall performance.
 ---
 
 
