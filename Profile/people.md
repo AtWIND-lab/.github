@@ -31,6 +31,3 @@ Associate Professor, Department of Engineering, Durham University
 
 We welcome collaboration and new students interested in **wind energy, atmospheric turbulence, and environmental fluid mechanics**.  
 
-📧 [majid.bastankhah@durham.ac.uk](mailto:majid.bastankhah@durham.ac.uk)  
-🌐 [majidbastankhah.com](https://www.majidbastankhah.com)
-
