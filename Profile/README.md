@@ -16,7 +16,7 @@ Welcome to our GitHub page. Here, we hosts open-source codes, datasets, and reso
 Below you’ll find repositories linked to our key publications.  
 Each repository may include codes, datasets, or supplementary material to promote open and reproducible research.
 
-**Note**: Most of our publications are collaborative efforts with research groups around the world. We’ve greatly enjoyed working with and learning from many talented researchers, and full credit goes to all co-authors involved. Please see the publication list for details.
+**Note**: Most of our publications are collaborative efforts with research groups around the world. We’ve greatly enjoyed working with and learning from many talented researchers, and full credit goes to all co-authors involved. Please see the publication records for more details.
 
 | Year | Title | Repository | Publication |
 |------|--------|------------|------------|
