@@ -21,7 +21,7 @@ Associate Professor, Department of Engineering, Durham University
 ### **Jordan Fuentes Holden** — PhD Student  
 <img src="./Images/Jordan.jpg" alt="Jordan Fuentes Holden" width="200">
 
-> **Academic supervisors**: Majid Bastankhah, David Sims-Williams, Lian Gan, Jim Gilbert (University of Hull)
+> **Academic supervisors**: Majid Bastankhah (primary supervisor), David Sims-Williams, Lian Gan, Jim Gilbert (University of Hull)
 
 > **Short bio**: 
 
