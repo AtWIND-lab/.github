@@ -28,7 +28,13 @@ Associate Professor, Department of Engineering, Durham University
 > **Research project**: I develop a smart wind turbine with trailing-edge flaps that can actively control the airflow around the blades and manipulate its wake to improve efficiency and overall performance.
 
 > **Academic supervisors**: Majid Bastankhah (primary supervisor), David Sims-Williams, Lian Gan, Jim Gilbert (University of Hull)
- 
+
+
+ ### **Ben Wass** - MEng Student
+
+ > **Research Project**: Developing a bi-model machine learning architecture to imporve power forecasts for offshore windfarms. Utlising SCADA data and weather forecasts.
+
+> **Academic supervisors**: Majid Bastankhah
 ---
 
 
