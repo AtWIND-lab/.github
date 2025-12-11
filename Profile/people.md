@@ -43,5 +43,20 @@ Associate Professor, Department of Engineering, Durham University
 
 ## 💬 Contact & Opportunities
 
-We welcome collaboration and new students interested in **wind energy, atmospheric turbulence, and environmental fluid mechanics**.  
+We welcome collaboration and new students interested in **wind energy, atmospheric turbulence, and environmental fluid mechanics**.
+
+
+### **Mohammad Roshani** — PhD Student  
+<img src="./Images/Mohammad.jpg" alt="Ehsan Roshani" width="200">
+
+> **Short bio**:  
+> I am a PhD student working on floating offshore wind at Durham University. I am interested in how wind flows interact with floating wind turbines, especially because these turbines can move in all six degrees of freedom. Before starting my PhD, I studied mechanical engineering and worked with numerical tools for analysing wind flow and performance. I enjoy building simple and practical models that help reduce uncertainty in wind energy applications.
+
+> **Research project**:  
+> My research focuses on understanding and modelling the two-way interaction between atmospheric wind flows and floating offshore wind turbines. Because floating turbines move (surge, sway, heave, roll, pitch and yaw), many common wind-energy tasks such as power performance testing, energy yield analysis, wake modelling, induction and blockage effects, and forecasting become more uncertain.  
+>  
+> In my project, I work on identifying, quantifying, and reducing these uncertainties. I study how turbine motion changes upstream, lateral and downstream flow behaviour in single turbines, pairs, rows, and large wind-farm clusters. The project involves reviewing existing modelling approaches, developing new or improved models, using numerical tools, and engaging with EDF experts and industry partners to ensure the methods are relevant and practical for real floating wind farms.
+
+> **Academic supervisors**: Majid Bastankhah (primary supervisor), Adam Collings (EDF)
+
 
