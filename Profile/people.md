@@ -47,7 +47,7 @@ We welcome collaboration and new students interested in **wind energy, atmospher
 
 
 ### **Mohammad Roshani** — PhD Student  
-<img src="./Images/Mohammad.jpg" alt="Ehsan Roshani" width="200">
+<img src="./Images/Mohammad.JPG" alt="Mohammad Roshani" width="200">
 
 > **Short bio**:  
 > I am a PhD student working on floating offshore wind at Durham University. I am interested in how wind flows interact with floating wind turbines, especially because these turbines can move in all six degrees of freedom. Before starting my PhD, I studied mechanical engineering and worked with numerical tools for analysing wind flow and performance. I enjoy building simple and practical models that help reduce uncertainty in wind energy applications.
