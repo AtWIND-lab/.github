@@ -45,7 +45,8 @@ Associate Professor, Department of Engineering, Durham University
 
 > **Academic supervisors**: Majid Bastankhah (primary supervisor), Jacob Burrows, EDF UK R&D (Lead Researcher), Christophe Peyrard, EDF R&D (France, floating offshore wind expert)
 
-[mohammad.roshani@durham.ac.uk](mailto:mohammad.roshani@durham.ac.uk)
+<small>[mohammad.roshani@durham.ac.uk](mailto:mohammad.roshani@durham.ac.uk)</small>
+
 ---
 
 ## 💬 Contact & Opportunities
