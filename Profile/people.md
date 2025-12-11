@@ -37,15 +37,6 @@ Associate Professor, Department of Engineering, Durham University
 > **Academic supervisors**: Majid Bastankhah
 ---
 
-
-
----
-
-## 💬 Contact & Opportunities
-
-We welcome collaboration and new students interested in **wind energy, atmospheric turbulence, and environmental fluid mechanics**.
-
-
 ### **Mohammad Roshani** — PhD Student  
 <img src="./Images/Mohammad.JPG" alt="Mohammad Roshani" width="200">
 
@@ -60,3 +51,10 @@ We welcome collaboration and new students interested in **wind energy, atmospher
 > **Academic supervisors**: Majid Bastankhah (primary supervisor), Adam Collings (EDF)
 
 
+
+
+---
+
+## 💬 Contact & Opportunities
+
+We welcome collaboration and new students interested in **wind energy, atmospheric turbulence, and environmental fluid mechanics**.
