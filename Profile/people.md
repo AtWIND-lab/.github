@@ -38,7 +38,7 @@ Associate Professor, Department of Engineering, Durham University
 ---
 
 ### **Mohammad Roshani** — PhD Student  
-<img src="./Images/Mohammad.jpg" alt="Mohammad Roshani" width="200">
+<img src="./Images/Mohammad.JPG" alt="Mohammad Roshani" width="200">
 
 > **Short bio**:  
 > I am a PhD student working on floating offshore wind at Durham University. I am interested in how wind flows interact with floating wind turbines, especially because these turbines can move in all six degrees of freedom.
