@@ -49,6 +49,18 @@ Associate Professor, Department of Engineering, Durham University
 
 ---
 
+### **Joshua Prowse** - PhD Student
+
+> **Research Project**: Optimisation of wind farms power production using AI
+
+> I graduated from Durham in 2025 with an MEng specialising in electrical engineering. During my PhD I will be developing an artificial intelligence capable of optimising the control parameters of a wind farm in response to changing wind conditions and to power demand from the grid.
+
+> **Academic Supervisors**: Stefano Giani (primary supervisor) & Majid Bastankhah
+
+[joshua.prowse@durham.ac.uk](mailto:joshua.prowse@durham.ac.uk)
+
+---
+
 ## 💬 Contact & Opportunities
 
 We welcome collaboration and new students interested in **wind energy, atmospheric turbulence, and environmental fluid mechanics**.
