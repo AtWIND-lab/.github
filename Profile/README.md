@@ -21,6 +21,7 @@ Each repository may include codes, datasets, or supplementary material to promot
 | Year | Title | Repository | Publication |
 |------|--------|------------|------------|
 | 2025 | **Generalised Actuator Disk Theory** | [repo-link](https://github.com/AtWIND-lab/Generalised-Actuator-Disk-theory) | [publication-link](https://arxiv.org/abs/2510.08213)
+| 2026 | **Optimal wind farm energy and reserve scheduling incorporating wake interactions** | [repo-link](https://github.com/AtWIND-lab/optimal-wf-scheduling) | [publication-link](https://www.sciencedirect.com/science/article/pii/S0306261926004678)
 
 
 > 🧩 More repositories will be added as our work evolves.  
